@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "642892418079",
+    "project_id": "sasta-tiktok-16dd4",
+    "storage_bucket": "sasta-tiktok-16dd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642892418079:android:198b7c5e208be8320a192a",
+        "android_client_info": {
+          "package_name": "com.example.sasta_tiktok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642892418079-ifd91kbh1qu7113l9jr28fpio1o64vkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN-b5GNT3EtFblOR5oIDve9Kx2R8aQTk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642892418079-ifd91kbh1qu7113l9jr28fpio1o64vkr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
